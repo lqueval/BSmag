@@ -4,7 +4,7 @@ The BSmag Toolbox is a Matlab toolbox for the numerical integration of the Biot-
 If you use this code, send me message with the reference and I will add it to the users list. If you would like to acknowledge it (and direct others to it), you could use a reference like this:
 >L. Quéval, “BSmag toolbox user manual,” Tech. report, Dept. Elect. Eng., University of Applied Sciences Düsseldorf, Germany, April 2015. Available: http://www.lqueval.com [Accessed April. 07, 2015].
 
-<img class="size-large wp-image-35 aligncenter" src="https://lqueval.files.wordpress.com/2015/04/example_3d_solenoid_filament_all1.png?w=625" alt="BSmag example" width="625" height="219" />
+<img class="size-large wp-image-35 aligncenter" src="https://lqueval.files.wordpress.com/2015/04/example_3d_solenoid_filament_all1.png" width="937.5" height="328.5" />
 
 # License
 BSD: https://opensource.org/licenses/BSD-3-Clause 
